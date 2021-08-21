@@ -31,7 +31,7 @@ This means that 1/3 of employees from those departments are soon to retire.
 Curiously, there seems to be a cliff on hiring as far as age goes.
 Below is a query that searches for employees hired who were born on or after 1965.
 
-![1965 hire](https://user-images.githubusercontent.com/84999050/130307038-72fa7a28-4d63-425b-a455-42edcdf999fc.png)
+
 
 The query returns these results:
 
