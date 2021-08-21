@@ -29,13 +29,16 @@ And again, if we use the code to search for Senior Staff, we come up with 82,000
 This means that 1/3 of employees from those departments are soon to retire.
 
 Curiously, there seems to be a cliff on hiring as far as age goes.
-Below is a query that searches for employees 
+Below is a query that searches for employees hired who were born on or after 1965.
 
 ![1965 hires](https://user-images.githubusercontent.com/84999050/130307038-72fa7a28-4d63-425b-a455-42edcdf999fc.png)
 
-Returns these results:
+The query returns these results:
 
 ![1965 hires return](https://user-images.githubusercontent.com/84999050/130307050-91e395ac-7a05-44a7-bef1-66f3d8efbe8a.png)
 
-Now, if we change the parameters to search for people hired who were born 
+Now, if we change the query parameters to search for people hired who were born on or after 1966, this is what is returned:
+
+![1966 hires return](https://user-images.githubusercontent.com/84999050/130307172-d063c300-23d4-43e3-be48-62358f30aadd.png)
+
 
