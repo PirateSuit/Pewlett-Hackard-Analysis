@@ -42,4 +42,4 @@ Now, if we change the query parameters to search for people hired who were born 
 
 ![1966 hires return](https://user-images.githubusercontent.com/84999050/130307172-d063c300-23d4-43e3-be48-62358f30aadd.png)
 
-
+From this, it seems that there are no employees working at Pewlett that are younger than 50 years old.
